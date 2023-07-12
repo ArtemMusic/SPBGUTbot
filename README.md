@@ -50,7 +50,7 @@ request
 
 1) Скопировать бота из данного репозитория
 ```
-https://github.com/kot0fey/tgBotGroup1.git
+https://github.com/ArtemMusic/SPBGUTbot
 ```
 2) Скачать и установить среду разработки Pycharm
 ```
